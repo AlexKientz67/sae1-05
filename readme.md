@@ -178,4 +178,3 @@ project/
 # ✅ Conclusion
 
 Ce projet permet d’automatiser la recherche des fichiers volumineux et facilite le nettoyage d’un disque grâce à une interface graphique intuitive et un système de suppression contrôlé.
-# sae1-05
